@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/CP-JavaFX-master/Server/DBScripts/FAQ.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CP-JavaFX-master/Server/DBScripts/coefficient.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CP-JavaFX-master/Server/DBScripts/mark.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CP-JavaFX-master/Server/DBScripts/review.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CP-JavaFX-master/Server/DBScripts/scholarship.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CP-JavaFX-master/Server/DBScripts/student.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/CP-JavaFX-master/Server/DBScripts/user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Server/DBScripts/FAQ.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Server/DBScripts/coefficient.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Server/DBScripts/mark.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Server/DBScripts/review.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Server/DBScripts/scholarship.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Server/DBScripts/student.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Server/DBScripts/user.sql" dialect="MySQL" />
+  </component>
+</project>

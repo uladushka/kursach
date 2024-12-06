@@ -1,0 +1,10 @@
+id: 1
+first_name: Иванов
+average grade: 8.4
+coef: 1
+scholarship: 140
+id: 5
+first_name: Петров
+average grade: 9.0
+coef: 4
+scholarship: 0
